@@ -1,8 +1,8 @@
 # DiscordGo
 
-[![GoDoc](https://godoc.org/github.com/zx2512/discordgo?status.svg)](https://godoc.org/github.com/zx2512/discordgo) [![Go report](http://goreportcard.com/badge/bwmarrin/discordgo)](http://goreportcard.com/report/bwmarrin/discordgo) [![Build Status](https://travis-ci.org/bwmarrin/discordgo.svg?branch=master)](https://travis-ci.org/bwmarrin/discordgo) [![Discord Gophers](https://img.shields.io/badge/Discord%20Gophers-%23discordgo-blue.svg)](https://discord.gg/0f1SbxBZjYoCtNPP) [![Discord API](https://img.shields.io/badge/Discord%20API-%23go_discordgo-blue.svg)](https://discord.com/invite/discord-api)
+[![GoDoc](https://godoc.org/github.com/zx2512/discordgo?status.svg)](https://godoc.org/github.com/zx2512/discordgo) [![Go report](http://goreportcard.com/badge/zx2512/discordgo)](http://goreportcard.com/report/zx2512/discordgo) [![Build Status](https://travis-ci.org/zx2512/discordgo.svg?branch=master)](https://travis-ci.org/zx2512/discordgo) [![Discord Gophers](https://img.shields.io/badge/Discord%20Gophers-%23discordgo-blue.svg)](https://discord.gg/0f1SbxBZjYoCtNPP) [![Discord API](https://img.shields.io/badge/Discord%20API-%23go_discordgo-blue.svg)](https://discord.com/invite/discord-api)
 
-<img align="right" src="http://bwmarrin.github.io/discordgo/img/discordgo.png">
+<img align="right" src="http://zx2512.github.io/discordgo/img/discordgo.png">
 
 DiscordGo is a [Go](https://golang.org/) package that provides low level 
 bindings to the [Discord](https://discord.com/) chat client API. DiscordGo 
@@ -14,10 +14,10 @@ If you would like to help the DiscordGo package please use
 to add the official DiscordGo test bot **dgo** to your server. This provides 
 indispensable help to this project.
 
-* See [dgVoice](https://github.com/bwmarrin/dgvoice) package for an example of
+* See [dgVoice](https://github.com/zx2512/dgvoice) package for an example of
 additional voice helper functions and features for DiscordGo.
 
-* See [dca](https://github.com/bwmarrin/dca) for an **experimental** stand alone
+* See [dca](https://github.com/zx2512/dca) for an **experimental** stand alone
 tool that wraps `ffmpeg` to create opus encoded audio appropriate for use with
 Discord (and DiscordGo).
 
