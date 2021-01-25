@@ -20,9 +20,9 @@ gamers that's free, secure, and works on both your desktop and phone.
 
 ### Learn More
 * Check out the [Getting Started](GettingStarted) section
-* Read the reference docs on [Godoc](https://godoc.org/github.com/bwmarrin/discordgo) or [GoWalker](https://gowalker.org/github.com/bwmarrin/discordgo)
-* Try the [examples](https://github.com/bwmarrin/discordgo/tree/master/examples)
-* Explore [Awesome DiscordGo](https://github.com/bwmarrin/discordgo/wiki/Awesome-DiscordGo)
+* Read the reference docs on [Godoc](https://godoc.org/github.com/zx2512/discordgo) or [GoWalker](https://gowalker.org/github.com/zx2512/discordgo)
+* Try the [examples](https://github.com/zx2512/discordgo/tree/master/examples)
+* Explore [Awesome DiscordGo](https://github.com/zx2512/discordgo/wiki/Awesome-DiscordGo)
 
 ### Join Us!
 Both of the below links take you to chat channels where you can get more 
